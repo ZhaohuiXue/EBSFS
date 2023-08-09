@@ -1,7 +1,7 @@
 %
-% S3Net: Spectral–Spatial Siamese Network for Few-Shot Hyperspectral Image Classification.
+% Enhanced Generalized Regression Neural Network With Backward Sequential Feature Selection for Machine-Learning-Driven Soil Moisture Estimation: A Case Study Over the Qinghai-Tibet Plateau
 %
-%    This demo shows the S3Net model for hyperspectral image classification.
+%    This demo shows the EBSFS model for SM estimation.
 %
 %    main.py ....... A main script executing experiments upon IP, PU, and HU data sets.
 %    data_read.py ....... A script implementing various data manipulation functions.
